@@ -1,4 +1,4 @@
--  Hi, I’m Kevwe
+-  Hi, I’m Praise Idise
 - I’m a Front-end developer 
 -  I’m currently looking to collaborate on projects 
 - Reach me @ Idisepraise@gmail.com
