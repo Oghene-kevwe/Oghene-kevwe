@@ -1,4 +1,5 @@
--  Hi, I’m Praise Idise
-- I’m a Front-end developer 
--  I’m currently looking to collaborate on projects 
-- Reach me @ Idisepraise@gmail.com
+-  Hi, I’m Praise Idise. I’m a Front-end developer.
+-  I work with React and Tailwindcss.
+-  I am currently learning Node.js
+-  I'll like to collaborate on your project if you have any
+- You can reach me @Idisepraise@gmail.com 
