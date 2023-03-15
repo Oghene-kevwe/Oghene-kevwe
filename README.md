@@ -1,5 +1,4 @@
--  Hi, I’m Praise Idise. I’m a Front-end developer.
+-  Hi, I’m Praise Idise, a Front-end developer.
 -  I work with React and Tailwindcss.
 -  I am currently learning Node.js
--  I'll like to collaborate on your project if you have any
 - You can reach me @Idisepraise@gmail.com 
