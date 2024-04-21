@@ -1,4 +1,4 @@
 -  Hi, I’m Praise Idise, a Front-end developer
 -  I work with React and Tailwindcss
--  I am currently learning Go
+-  I am currently learning C#
 - You can reach me @Idisepraise@gmail.com 
