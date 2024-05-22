@@ -1,4 +1,3 @@
--  Hi, I’m Praise Idise, a Front-end developer
--  I work with React and Tailwindcss
--  I am currently learning C#
+-  Hi, I’m Praise Idise, a Full-stack developer
+-  I work with React and Asp.Net
 - You can reach me @Idisepraise@gmail.com 
