@@ -1,3 +1,3 @@
--  Hi, I’m Praise Idise, a Full-stack developer
--  I work with React, React Native and Asp.Net
+-  Hi, I’m Praise Idise, a software developer
+-  I work with React, React Native and Asp.Net Core
 - You can reach me @Idisepraise@gmail.com 
